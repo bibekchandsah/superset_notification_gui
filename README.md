@@ -346,3 +346,4 @@ This tool is provided for **educational and personal use only**. Users are respo
 - **📁 File Paths**: Resolved PyInstaller temp directory issues
 - **🔄 Auto-Start**: Improved EXE detection and startup reliability
 - **🎨 UI Polish**: Enhanced spacing, colors, and visual feedback
+
