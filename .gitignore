@@ -1,0 +1,8 @@
+__pycache__
+build
+dist
+credentials.json
+known_posts.json
+login_page_debug.html
+new_posts_detailed.log
+posts_log.txt

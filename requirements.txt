@@ -1,0 +1,14 @@
+# Required packages for Superset Post Monitor
+selenium>=4.15.0
+webdriver-manager>=4.0.0
+
+# Optional packages for notifications
+plyer>=2.1.0          # For basic cross-platform notifications
+win10toast>=0.9       # For Windows native toast notifications (Windows only)
+
+# System tray and icon support
+pystray>=0.19.4       # For system tray functionality
+Pillow>=9.0.0         # For image processing and icon support
+
+# Additional dependencies that might be needed
+requests>=2.31.0
